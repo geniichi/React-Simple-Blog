@@ -1,0 +1,32 @@
+::-webkit-scrollbar-track
+{
+	border: 1px solid black;
+	background-color: #8f8c8c;
+}
+
+::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #8f8c8c;
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: #474646;
+}
+
+body {
+  background-color:rgb(33, 37, 41);
+  color:#fff;
+  min-width:290px;
+}
+
+a{
+  color:#fff;
+  margin: 20px
+}
+
+a:hover{
+  color:#0c7aa5;
+  text-decoration: none;
+}
